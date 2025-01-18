@@ -27,6 +27,7 @@ Conversion rate (leads-orders): Facebook_retargeting highest conversion rate
 1. Profit-loss and category: 
 
 Null hypothesis: The mean profitability is the same across all categories
+
 Alternative hypothesis: At least one category has a significantly different mean profitability
 
 Result of ANOVA test: 
@@ -35,6 +36,7 @@ Reject null hypothesis, influencer(instagram and youtube blogger) has the highes
 2. leads and orders: 
 
 Null hypothesis: The mean of number of leads generated through campaigns is equal the number of orders placed.
+
 Alternative hypothesis: The mean of number of leads generated through campaigns is significantly different from the number of orders placed
 
 Result of Paired t test
