@@ -2,7 +2,7 @@
 
 **Introduction:** 
 
-Digital marketing agency Dataset is extracted from Kaggle. In this project I will be data analyst a representative of a Digital marketing agency explaing their outcome marketing campaign. 
+Digital marketing dataset is extracted from Kaggle. In this project I will be data analyst a representative of a Digital marketing agency explaing their outcome marketing campaign. 
 Business case: The purpose of this analysis is to provide an overview of some marketing metrics/ KPIs for the current dataset over month of February 2021. 
 
 Data contains 11 columns information of 308 marketing campagins and required little data cleaning. 
